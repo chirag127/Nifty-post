@@ -1,0 +1,5 @@
+unoserver
+streamlit
+pdf2docx
+opencv-python-headless
+docx2pdf
